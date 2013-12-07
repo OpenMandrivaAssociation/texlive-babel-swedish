@@ -6,7 +6,7 @@
 # catalog-version 2.3d
 Name:		texlive-babel-swedish
 Version:	2.3d
-Release:	3
+Release:	4
 Summary:	Babel support for typesetting Swedish
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/swedish
