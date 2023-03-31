@@ -1,6 +1,6 @@
 Name:		texlive-babel-swedish
 Version:	57647
-Release:	1
+Release:	2
 Summary:	Babel support for typesetting Swedish
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/swedish
