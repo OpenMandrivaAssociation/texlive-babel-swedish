@@ -3,7 +3,7 @@ Version:	57647
 Release:	2
 Summary:	Babel support for typesetting Swedish
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/swedish
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/swedish
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-swedish.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-swedish.doc.r%{version}.tar.xz
